@@ -1481,15 +1481,15 @@ header .top-bar {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 12rem;
-	width: 12rem;
+	height: 14rem;
+	width: 14rem;
 	border-radius: 50%;
-	margin: .9rem 0 0 0;
+	margin: .13rem 0 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: left;
-	padding-left: 15rem;
+	padding-left: 17rem;
 }
 
 .about-content {
